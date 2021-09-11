@@ -1,0 +1,28 @@
+#mvsgl
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40;
+}
+
+img
+{
+  height: 100px;
+  width: 300px;  
+}
+
+.color_1,.color_2,.color_3,.color_4,.color_5
+{
+  background-color: gray;
+  border-radius: 60px;
+}  
+
+.img-responsive
+{
+  border-radius: 60px;
+}
+
+h5
+{
+  background-color: white;
+  border-radius: 20px;
+}
